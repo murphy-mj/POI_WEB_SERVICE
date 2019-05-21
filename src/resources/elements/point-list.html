@@ -1,0 +1,34 @@
+<template>
+  <h4 class="ui dividing header"> Points </h4>
+  <table class="ui celled table segment">
+    <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Description</th>
+      <th>Image</th>
+      <th>Location</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr repeat.for="point of points">
+      <td>
+        ${point.name}
+      </td>
+      <td>
+        ${point.category}
+      </td>
+      <td>
+        ${point.description}
+      </td>
+      <td>
+        ${point.pimage}
+      </td>
+      <td>
+        ${point.location.lng}, ${point.location.lat}
+      </td>
+
+    </tr>
+    </tbody>
+  </table>
+</template>

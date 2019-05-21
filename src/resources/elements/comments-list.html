@@ -1,0 +1,21 @@
+<template>
+  <div class="ui stacked segment">
+    <h3 class="ui dividing header"> Comments to {{Point}} </h3>
+    <table class="ui celled table segment">
+      <thead>
+        <tr>
+          <th>Comment</th>
+          <th>User</th>
+          <th>Point</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr repeat.for="comment of comments">
+          <td> ${comment.opinion}</td>
+          <td> ${comment.user.lastName}, ${comment.user.firstName}</td>
+          <td> ${comment.point.name}, ${comment.point.name}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</template>

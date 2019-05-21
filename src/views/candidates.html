@@ -1,0 +1,18 @@
+<template>
+  <require from="../resources/elements/candidate-form"></require>
+  <require from="../resources/elements/candidate-list"></require>
+  <require from="../resources/elements/total-donated"></require>
+
+  <div class="ui stackable grid">
+    <div class="seven wide column">
+      <candidate-form candidates.bind="candidates"></candidate-form>
+    </div>
+    <div class="two wide column">
+      <total-donated></total-donated>
+    </div>
+    <div class="seven wide column">
+      <candidate-list candidates.bind="candidates"></candidate-list>
+    </div>
+  </div>
+</template>
+

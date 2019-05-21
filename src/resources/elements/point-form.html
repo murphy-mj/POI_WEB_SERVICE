@@ -1,0 +1,37 @@
+<template>
+  <require from="./coordinates"></require>
+  <form submit.trigger="addPoint()" class="ui form stacked segment">
+    <h3 class="ui dividing header"> Add a Point </h3>
+    <div class="grouped inline fields">
+    <div class="field">
+      <label>Name </label> <input value.bind="name">
+    </div>
+    </div>
+
+    <div class="grouped inline fields">
+     <div class="field" repeat.for="category of categories">
+      <div class="ui radio checkbox">
+        <input type="radio" model.bind="category" checked.bind="selectedCategory">
+        <label>${category}</label>
+      </div>
+     </div>
+    </div>
+
+    <div class="grouped inline fields">
+    <div class="field">
+      <label>Description </label> <input value.bind="description">
+    </div>
+    </div>
+
+    <div class="grouped inline fields">
+    <div class="field">
+    <label>Image </label> <input value.bind="pimage">
+    </div>
+    </div>
+
+    <div>
+    <coordinates location.two-way="location"></coordinates>
+    </div>
+    <button class="ui blue submit button">Add</button>
+  </form>
+</template>

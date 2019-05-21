@@ -1,0 +1,16 @@
+<template>
+  <require from="../resources/elements/comments-list"></require>
+  <require from="../resources/elements/comment-form"></require>
+  <require from="../resources/elements/total-commented"></require>
+  <require from="../resources/elements/point-map"></require>
+
+  <div class="ui stackable grid">
+    <div class="two wide column">
+      <total-commented></total-commented>
+    </div>
+    <div class="seven wide column">
+      <point-map></point-map>
+      <comments-list comments.bind="comments"></comments-list>
+    </div>
+  </div>
+</template>

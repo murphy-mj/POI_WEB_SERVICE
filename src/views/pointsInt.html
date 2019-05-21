@@ -1,0 +1,19 @@
+<template>
+  <require from="../resources/elements/point-form"></require>
+  <require from="../resources/elements/point-list"></require>
+  <require from="../resources/elements/total-points"></require>
+  <require from="../resources/elements/point-map"></require>
+
+  <div class="ui stackable grid">
+    <div class="seven wide column">
+      <point-form categories.bind="categories"></point-form>
+    </div>
+    <div class="two wide column">
+      <total-points></total-points>
+    </div>
+    <div class="seven wide column">
+      <point-map></point-map>
+      <point-list points.bind="points"></point-list>
+    </div>
+  </div>
+</template>
