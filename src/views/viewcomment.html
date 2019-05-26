@@ -1,0 +1,16 @@
+<template>
+  <require from="../resources/elements/comments-list"></require>
+  <require from="../resources/elements/comment-form"></require>
+
+  <div class="ui stackable grid">
+    <div class="seven wide column">
+      <comment-form  points.bind="points"  rawPoints.bind="rawPoints"   comments.bind="comments"></comment-form>
+    </div>
+    <div class="two wide column">
+
+    </div>
+    <div class="seven wide column">
+      <comments-list comments.bind="comments"></comments-list>
+    </div>
+  </div>
+</template>

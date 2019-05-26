@@ -1,0 +1,19 @@
+<template>
+  <require from="../resources/elements/donations-list"></require>
+  <require from="../resources/elements/donate-form"></require>
+  <require from="../resources/elements/total-donated"></require>
+  <require from="../resources/elements/donate-map"></require>
+
+  <div class="ui stackable grid">
+    <div class="seven wide column">
+      <donate-form payment-methods.bind="paymentMethods" candidates.bind="candidates"></donate-form>
+    </div>
+    <div class="two wide column">
+      <total-donated></total-donated>
+    </div>
+    <div class="seven wide column">
+      <donate-map></donate-map>
+      <donations-list donations.bind="donations"></donations-list>
+    </div>
+  </div>
+</template>
