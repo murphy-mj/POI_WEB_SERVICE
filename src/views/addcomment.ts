@@ -1,19 +1,19 @@
 import { inject } from 'aurelia-framework';
-import {Candidate, Donation} from "../services/donation-types";
+import {Candidate, Donation, Location, Point, rawPoint, User, Comment } from "../services/donation-types";
 import {DonationService} from "../services/donation-service";
 
 
 @inject(DonationService)
-export class Donate {
-  donations: Donation[];
-  paymentMethods: string[];
-  candidates: Candidate[];
-  total =0;
+export class addcomment {
+  comments: Comment[];
+  points: Point[];
+
+
 
   constructor(private ds: DonationService) {
-    this.candidates = ds.candidates;
-    this.paymentMethods = ds.paymentMethods;
-    this.donations = ds.donations;
-    this.total = ds.total;
+    this.comments = ds.comments;
+     this.points = ds.points;
+
   }
+
 }

@@ -27,13 +27,7 @@ export class App {
         nav: true,
         title: 'Logout'
       },
-      {
-        route: 'dataPoi',
-        name: 'dataPoi',
-        moduleId: PLATFORM.moduleName('views/dataPoi'),
-        nav: true,
-        title: 'data-poi'
-      },
+
       {
         route: 'pointsInt',
         name: 'pointsInt',
@@ -54,9 +48,22 @@ export class App {
         moduleId: PLATFORM.moduleName('views/observation'),
         nav: true,
         title: 'Observations'
+      },
+      {
+        route: 'addcomment/:id',
+        name: 'addcomment',
+        moduleId: PLATFORM.moduleName('views/addcomment'),
+        nav: false,
+        title: 'Add Comment'
+      },
+
+      {
+        route: 'viewcomment/:id',
+        name: 'viewcomment',
+        moduleId: PLATFORM.moduleName('views/viewcomment'),
+        nav: false,
+        title: 'View Comments'
       }
-
-
 
 
     ]);

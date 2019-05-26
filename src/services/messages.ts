@@ -29,10 +29,9 @@ export class TotalCatUpdate {
 }
 
 export class TotalComment {
-  totalComment: number;
+  totalComments: number;
   point : Point;
-  constructor(totalComment: number,point: Point) {
-    this.totalComment = totalComment;
-    this.point = point;
+  constructor(totalComments: number) {
+    this.totalComments = totalComments;
   }
 }

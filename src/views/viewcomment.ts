@@ -4,7 +4,7 @@ import {DonationService} from "../services/donation-service";
 
 
 @inject(DonationService)
-export class addcomment {
+export class viewComment {
   comments: Comment[];
   points: Point[];
 

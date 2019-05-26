@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd13b44b-de7a-437b-87d0-bf0d6e797075" name="Default Changelist" comment="" />
+    <list default="true" id="fd13b44b-de7a-437b-87d0-bf0d6e797075" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/10/bb/94f612df7ca46479e9cdbaf320a5417cf382d6191be336a4bfb74537eddfa1aa5b83478b55ddedbcd01f4b749d467c1d6bed12c1b46eb63abd62cbacb9a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/18/67/17f6b87aee6e1c5767f0dbeae4a51380bdfc4aff3650473528ab0e151a02c798a7c11f24eff4f1f4435dae3f720a1fc00e3382b0dc385398508ee4c12567" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/2b/48/d4709be13b0c8317867c9cd32c78a825810cd69b3c01102026b843a2440c797e9fba9e9f11b51fcdd56a9dce02d83fc581e6798e767d0848ce765044e4dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/46/2b/8b32b2054eae59b3de672831aef50970ab7cc890cdf430781a84e277351b2f6edc4340e5d61dfa14cae13b8d620894eb4ae588984525b4ca1caa733a5256" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/48/ee/29a1552e23973f41ed30816a2549db56af2cadbb8179f645fb786fac3fb78fdc1cf393b78b87ad31edc6be540865d7a954945eefe70d65a233111dca26ed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/52/ae/5e70ed9410d18ae6b964cbe61d27c667b8414f9521c7c89401d8f716b6cc6eeee20eb28806d2b4abe297ffdf4366bb27ef58d688342eba119b17145c9dfb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/54/d1/3800ffb92d30e3c5126aeb5ea928023725823c96a8d6ffa4d7e7f526ba6612e37c177ee2102bbc60c959df7193d2b7051dafe13a1a5a3787449b7130974a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/73/fb/46a848771132ffda86bfa0fc05784313be4aff909cbfe959f5d2cf6bba04d3a65dbbd476f7f380467f431d108005c639bf507a8b052e7f42dcffd5f1d28b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/7d/cd/08efad242fe4f8cb22a51fb84eea013a5dbf4832b3399bbc043c4e3a635f16c0b447f3e0bd2467886b2d53a53a01a8353a3087f9c26145f791e214eef530" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/8e/fd/4793b24e4d0694873abab863f421c20fc1a288ecf73f0805fa3f299d74d4800d5567b56d2e13795ba23f912ced333f9c52291e4291f1bc35446942ea6e00" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/9b/cc/8e4d42697ae16592fa24e9d1f1b07b409c5e3e9c1e58a95478b5c423225525a88f47b24366cab9a979c3c202b58742c49178055144a2f01b9d4edb663a47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/a5/12/49d424a7a1b1dea00bd4c4bcb2e67abbdd2d3503a140df85b7f5d287cba7ac1bf95a8ffd0cb07cca6adf1e0a8cd7d60c90dc304ddbb5e0a2e4ac7c84ce0e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/bd/0a/4e3b6dcf79f21aaad3bcfebbba8c0cf06e81f84b341a98f04af8f0693691d07efba5d797551be85e76c2414ea355aaa5fd2d368e4900672d2b21a886a84c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/cd/f6/d1503538b1b9932856dc954ae3af50e0ba65c18e3ff4549d6bf1e39284704101340d76ef12a8926551e7e3cbd27b4d98affce8f4cfb40114a6d504802579" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/e9/b0/958c48a2fcb71907f4dd4943a8d00421b30ce036d2696c793578655064e0b9cce8421f5a826c57e4da0b82cb5ad1f023d8a433e713547dbf096879326dbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f1/c9/a7497dc7b75e574c789d8cf4629537953b3f1d25eacf1e1253088a9377894222541752f2cd3d410310583dabe3291e4d7b8ccd565ca75fc3a5c943ff3259" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/fc/c2/0c11547b9c3a2ce9d9aca807a9538dab5f777f8b32e4ae3e6919abd6bf6d7ca41ced79d7070145c5c0258365744162e45bb9ce1fad7bc7cf6ea647a807cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/fe/63/527c314e1498c708eef68d47b3e77219dd6d52da0c96b5a3adfd6ab0d874c9afa066e8dba7aaf9d28bdab01ac88ef30f2ce0e9986cf1e7c47a4a4ab75011" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/0b/50/397cd69a2594e7efcfa9a72dc00df46b93388823f8703914606bcdade405" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/23/1d/4220d50fd71c12e702dc014c87e0f4b634396c0fc8aa6028c76f0823c07a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/25/a0/672cfd36a426ad8ddd69daeb467b1d3d5a0c5e25ac924e81829cd7316dca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/2b/20/557fcfe4c40a28aaa6a952008cc09bc087b1c2b44007c5aeb40389743468" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/34/b8/e59fa335c4bfdd00c9440ef0d519049e0877d04cf35948ae8b5b3b6969e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/35/bb/66b0ad66a1103ddfd8d127f9c6d2d54e00c14cf2e935915a677eecfecacb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/3a/2f/fcaa8f6b09f35d696195ca015d3e1307c867a3db6445579bd0303d793f16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/44/a7/895be24f3c57f2d2cd87d3b7cbba5168bc83bb5d41c16610cf26cc5fdfc7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/48/31/a2292de021bf680cafc1304b2ec09fcdaa0e6dde38be4dba3cb1c411f254" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/73/59/7f4345cd4c3a5e9f5d6b9f6eaae6c398b6e05defeb38cb90c84387e90fc8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/7b/e9/082a23f2f118f801e365aeeec3997843d1b467e15c5296add28926da14d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/7e/58/9de94ce1270bb5c32923ca4b847c73cff1482228d342aae2de026b003143" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/84/37/6e83d9835fdd1908792039a2b47758f9006de2102110a23dcfa1f6e1fa07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/9f/66/5f0549ef9f31b4c86fc354ce01db80bb404d45135634247ecbefa5dcaff9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/b5/e1/b0f6461d009037087df0f142e4b5279e8f187793fcfc5c9638220283efcc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ba/7b/ecdad900bbd5aada8a584ebdcbd35d378c3bf42c16210e59c0af386da620" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/cb/f9/06c1819af8ce09cfb91c07d1dd17437c9e8f7304ef8a865cc7eea9202130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/d0/84/c5158b5b3cae1fe2efd440b7618e17265d1b9669b771c4db0ef1b447a9ab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/donation-service2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/stats.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vim.exe.stackdump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/comment-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/comment-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/comment-form.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/comment-form.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/comments-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/comments-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/donate-form.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/donate-form.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/donate-map.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/donate-map.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/point-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/point-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/point-form.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/point-form.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/point-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/point-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/point-list.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/point-list.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/point-list2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/point-list2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/point-list2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/point-list2.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/point-map.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/point-map.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/elements/total-commented.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/elements/total-commented.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/donation-service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/donation-service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/donation-types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/donation-types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/leaflet-map.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/leaflet-map.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/messages.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/messages.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/start.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/addcomment.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/addcomment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/addcomment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/addcomment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/observation.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/observation.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pointsInt.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pointsInt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pointsInt.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pointsInt.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/stats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/viewcomment.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/viewcomment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/viewcomment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/viewcomment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,14 +87,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/services/donation-types.ts">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-              <folding>
-                <marker date="1558301471995" expanded="true" signature="823:868" ph="..." />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -31,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/services/donation-service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="267" selection-start-line="267" selection-end-line="267" />
               <folding>
                 <element signature="e#0#52#0" expanded="true" />
               </folding>
@@ -41,45 +109,56 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/elements/point-list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/unit/app.spec.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/jest-pretest.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/elements/point-list.ts">
+        <entry file="file://$PROJECT_DIR$/src/resources/elements/donate-form.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/messages.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
               <folding>
-                <element signature="e#0#45#0" expanded="true" />
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/start.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/donation-types2.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/donation-types.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/services/donation-service2.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="135" column="20" selection-start-line="110" selection-start-column="2" selection-end-line="139" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,6 +179,9 @@
       <find>L</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -108,71 +190,71 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main.ts" />
-        <option value="$PROJECT_DIR$/src/views/logout.ts" />
-        <option value="$PROJECT_DIR$/src/views/logout.html" />
-        <option value="$PROJECT_DIR$/src/views/login.ts" />
-        <option value="$PROJECT_DIR$/src/views/signup.html" />
-        <option value="$PROJECT_DIR$/src/views/signup.ts" />
-        <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/src/resources/elements/donations-list.html" />
-        <option value="$PROJECT_DIR$/src/resources/elements/donations-list.ts" />
-        <option value="$PROJECT_DIR$/src/resources/elements/candidate-form.ts" />
-        <option value="$PROJECT_DIR$/src/views/data.html" />
         <option value="$PROJECT_DIR$/src/views/dataPoi.ts" />
         <option value="$PROJECT_DIR$/src/views/dataPoi.html" />
         <option value="$PROJECT_DIR$/src/resources/elements/total-points.ts" />
-        <option value="$PROJECT_DIR$/src/resources/elements/total-donated.ts" />
         <option value="$PROJECT_DIR$/src/resources/elements/total-points.html" />
         <option value="$PROJECT_DIR$/src/resources/elements/coordinates.html" />
         <option value="$PROJECT_DIR$/index.ejs" />
-        <option value="$PROJECT_DIR$/src/services/leaflet-map.ts" />
         <option value="$PROJECT_DIR$/src/resources/elements/donate-map.html" />
-        <option value="$PROJECT_DIR$/src/views/donate.html" />
-        <option value="$PROJECT_DIR$/src/resources/elements/donate-map.ts" />
         <option value="$PROJECT_DIR$/src/resources/elements/coordinates.ts" />
         <option value="$PROJECT_DIR$/src/views/login.html" />
-        <option value="$PROJECT_DIR$/src/views/stats.ts" />
         <option value="$PROJECT_DIR$/src/resources/elements/total-categories.ts" />
         <option value="$PROJECT_DIR$/src/resources/elements/total-categories.html" />
-        <option value="$PROJECT_DIR$/src/views/stats.html" />
-        <option value="$PROJECT_DIR$/src/resources/elements/donate-form.ts" />
         <option value="$PROJECT_DIR$/src/views/points.ts" />
-        <option value="$PROJECT_DIR$/src/resources/elements/point-form.html" />
-        <option value="$PROJECT_DIR$/src/resources/elements/comments-list.html" />
         <option value="$PROJECT_DIR$/src/views/points.html" />
-        <option value="$PROJECT_DIR$/src/resources/elements/comment-form.html" />
-        <option value="$PROJECT_DIR$/src/services/messages.ts" />
         <option value="$PROJECT_DIR$/src/views/comment.html" />
         <option value="$PROJECT_DIR$/src/resources/elements/comments-list.ts" />
         <option value="$PROJECT_DIR$/src/views/comment.ts" />
-        <option value="$PROJECT_DIR$/src/resources/elements/total-commented.html" />
         <option value="$PROJECT_DIR$/src/resources/elements/total-commented.ts" />
-        <option value="$PROJECT_DIR$/src/resources/elements/comment-form.ts" />
-        <option value="$PROJECT_DIR$/src/resources/elements/point-map.ts" />
-        <option value="$PROJECT_DIR$/src/views/observation.ts" />
-        <option value="$PROJECT_DIR$/src/views/pointsInt.ts" />
-        <option value="$PROJECT_DIR$/src/app.ts" />
-        <option value="$PROJECT_DIR$/src/resources/elements/point-form.ts" />
-        <option value="$PROJECT_DIR$/src/services/donation-types.ts" />
         <option value="$PROJECT_DIR$/src/resources/elements/donate-form.html" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/resources/elements/point-form.html" />
+        <option value="$PROJECT_DIR$/src/resources/elements/point-form.ts" />
+        <option value="$PROJECT_DIR$/src/services/leaflet-map.ts" />
+        <option value="$PROJECT_DIR$/src/resources/elements/total-donated.ts" />
+        <option value="$PROJECT_DIR$/src/resources/elements/donate-map.ts" />
+        <option value="$PROJECT_DIR$/src/resources/elements/point-map.ts" />
+        <option value="$PROJECT_DIR$/src/resources/elements/donate-form.ts" />
+        <option value="$PROJECT_DIR$/src/views/observation.html" />
+        <option value="$PROJECT_DIR$/src/views/observation.ts" />
+        <option value="$PROJECT_DIR$/src/views/donate.html" />
+        <option value="$PROJECT_DIR$/src/services/donation-types.ts" />
+        <option value="$PROJECT_DIR$/src/views/addcomment.html" />
+        <option value="$PROJECT_DIR$/src/resources/elements/comment-form.ts" />
+        <option value="$PROJECT_DIR$/src/views/addcomment.ts" />
         <option value="$PROJECT_DIR$/src/resources/elements/point-list.ts" />
-        <option value="$PROJECT_DIR$/src/services/donation-service.ts" />
+        <option value="$PROJECT_DIR$/src/resources/elements/comment-form.html" />
+        <option value="$PROJECT_DIR$/src/views/pointsInt.ts" />
+        <option value="$PROJECT_DIR$/src/resources/elements/point-list2.ts" />
+        <option value="$PROJECT_DIR$/src/resources/elements/point-list2.html" />
         <option value="$PROJECT_DIR$/src/resources/elements/point-list.html" />
+        <option value="$PROJECT_DIR$/src/views/pointsInt.html" />
+        <option value="$PROJECT_DIR$/src/app.ts" />
+        <option value="$PROJECT_DIR$/src/views/viewcomment.ts" />
+        <option value="$PROJECT_DIR$/src/resources/elements/comments-list.html" />
+        <option value="$PROJECT_DIR$/src/views/viewcomment.html" />
+        <option value="$PROJECT_DIR$/src/resources/elements/total-commented.html" />
+        <option value="$PROJECT_DIR$/src/views/stats.html" />
+        <option value="$PROJECT_DIR$/src/services/messages.ts" />
+        <option value="$PROJECT_DIR$/src/views/stats.ts" />
+        <option value="$PROJECT_DIR$/src/start.ts" />
+        <option value="$PROJECT_DIR$/src/services/donation-service2.ts" />
+        <option value="$PROJECT_DIR$/src/services/donation-service.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="465" />
-    <option name="y" value="105" />
-    <option name="width" value="1165" />
-    <option name="height" value="1040" />
+    <option name="x" value="475" />
+    <option name="width" value="747" />
+    <option name="height" value="667" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,23 +262,13 @@
               <item name="donation-au" type="b2602c69:ProjectViewProjectNode" />
               <item name="donation-au" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="donation-au" type="b2602c69:ProjectViewProjectNode" />
-              <item name="donation-au" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="donation-au" type="b2602c69:ProjectViewProjectNode" />
-              <item name="donation-au" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,16 +276,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../donation-web-donation.11.end/donation-web-donation.11.end" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../donation-au-dply/POI_WEB_SERVICE/dist/app~d0ae3f07.daba71d8ebbc022f2d5e.bundle.map" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\EnterpriseWebDev_2019\donation-au\donation-au\src\resources\elements" />
-      <recent name="C:\EnterpriseWebDev_2019\donation-au\donation-au\src\views" />
       <recent name="C:\EnterpriseWebDev_2019\donation-au\donation-au\src\services" />
+      <recent name="C:\EnterpriseWebDev_2019\donation-au\donation-au\src\views" />
+      <recent name="C:\EnterpriseWebDev_2019\donation-au\donation-au\src\resources\elements" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\EnterpriseWebDev_2019\donation-au\donation-au\static\api" />
@@ -316,7 +388,6 @@
     <configuration name="app.spec.ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST_FILE" />
@@ -352,6 +423,13 @@
       <workItem from="1557923187863" duration="16685000" />
       <workItem from="1558201255536" duration="36262000" />
       <workItem from="1558378122794" duration="2205000" />
+      <workItem from="1558469330139" duration="602000" />
+      <workItem from="1558472838524" duration="2913000" />
+      <workItem from="1558477292991" duration="26000" />
+      <workItem from="1558478316865" duration="41000" />
+      <workItem from="1558549927391" duration="62889000" />
+      <workItem from="1558812570294" duration="692000" />
+      <workItem from="1558858239582" duration="14787000" />
     </task>
     <servers />
   </component>
@@ -359,9 +437,12 @@
     <history-entry file="app_spec_ts - 2019.05.20 at 21h 00m 50s.xml">
       <configuration name="app.spec.ts" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
+    <history-entry file="app_spec_ts - 2019.05.22 at 21h 12m 06s.xml">
+      <configuration name="app.spec.ts" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154609000" />
+    <option name="totallyTimeSpent" value="239239000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -377,15 +458,15 @@
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5042194" side_tool="true" weight="0.15664244" />
       <window_info id="npm" order="1" sideWeight="0.50133336" side_tool="true" weight="0.24921136" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4957806" visible="true" weight="0.32187706" />
-      <window_info id="Structure" order="3" sideWeight="0.5042194" side_tool="true" weight="0.15664244" />
-      <window_info id="Designer" order="4" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="UI Designer" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49966952" weight="0.3243626" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50033045" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="2" sideWeight="0.5042194" side_tool="true" weight="0.15664244" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.4957806" visible="true" weight="0.3826834" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4990086" visible="true" weight="0.24504249" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5009914" side_tool="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -408,23 +489,23 @@
     <layout-to-restore>
       <window_info id="Favorites" order="0" sideWeight="0.5042194" side_tool="true" weight="0.15664244" />
       <window_info id="npm" order="1" sideWeight="0.50133336" side_tool="true" weight="0.24921136" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4957806" visible="true" weight="0.32187706" />
-      <window_info id="Structure" order="3" sideWeight="0.5042194" side_tool="true" weight="0.15664244" />
-      <window_info id="Designer" order="4" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="UI Designer" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49966952" visible="true" weight="0.3243626" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50033045" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="2" sideWeight="0.5042194" side_tool="true" weight="0.15664244" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.4957806" visible="true" weight="0.19233312" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4990086" visible="true" weight="0.24504249" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5009914" side_tool="true" weight="0.3243626" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -441,122 +522,225 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/views/login.html">
+    <entry file="file://$PROJECT_DIR$/src/environment.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/leaflet-map.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="1360">
+          <caret line="83" column="56" lean-forward="true" selection-start-line="83" selection-start-column="56" selection-end-line="83" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.ts">
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/donate-map.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="476">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-categories.html" />
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-categories.ts" />
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/candidate-list.html">
+    <entry file="file://$PROJECT_DIR$/src/views/candidates.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/elements/candidate-form.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="255">
+          <caret line="15" column="72" lean-forward="true" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/stats.html">
+    <entry file="file://$PROJECT_DIR$/src/views/login.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/stats.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state>
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/donations-list.ts">
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-map.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="571">
+          <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-donated.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/candidates.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
           <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/comments-list.html">
+    <entry file="file://$PROJECT_DIR$/src/views/donate.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/donate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="100" lean-forward="true" selection-start-line="8" selection-start-column="100" selection-end-line="8" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/candidate-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/candidate-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-form.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/elements/donations-list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/dataPoi.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/candidates.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
+        <state relative-caret-position="-64" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/elements/candidate-form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="57" lean-forward="true" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/donate-map.html">
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/comment-form.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="306">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#43#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/addcomment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-list2.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/pointsInt.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/pointsInt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-list2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/elements/comment-form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="323">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/elements/comments-list.ts">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/comments-list.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/addcomment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-list.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/viewcomment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/viewcomment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -567,22 +751,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-donated.ts">
+    <entry file="file://$PROJECT_DIR$/src/app.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="327">
+          <caret line="51" column="7" lean-forward="true" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/observation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/observation.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="16" selection-start-line="8" selection-start-column="2" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/stats.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-points.ts">
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-commented.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-donated.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/stats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -593,97 +809,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-donated.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-commented.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/observation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/candidates.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/observation.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/messages.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-commented.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/comment-form.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/leaflet-map.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/donate-map.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/donate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/donate.ts">
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-points.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -692,158 +818,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-map.ts">
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/total-commented.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/donation-types2.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/messages.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/donate-form.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/pointsInt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-form.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/pointsInt.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/coordinates.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/coordinates.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/donate-form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/services/donation-types.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-          <folding>
-            <marker date="1558301471995" expanded="true" signature="823:868" ph="..." />
-          </folding>
+        <state relative-caret-position="-255">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/donation-service.ts">
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/donate-form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="425">
+          <caret line="25" column="70" lean-forward="true" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/elements/donate-form.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/start.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/donation-service2.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="135" column="20" selection-start-line="110" selection-start-column="2" selection-end-line="139" />
           <folding>
             <element signature="e#0#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-list.ts">
+    <entry file="file://$PROJECT_DIR$/src/services/donation-service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="247">
+          <caret line="267" selection-start-line="267" selection-end-line="267" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#0#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/elements/point-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/jest-pretest.ts">
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/unit/app.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

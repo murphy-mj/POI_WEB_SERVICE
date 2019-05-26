@@ -1,17 +1,17 @@
 <template>
-  <require from="./coordinates"></require>
   <form submit.trigger="makeComment()" class="ui form stacked segment">
     <h3 class='ui dividing header'> Make a Comment </h3>
     <div class="grouped inline fields">
       <div class="field">
         <label>Comment</label> <input type="test" value.bind="opinion">
       </div>
+      <div class="field">
+        <h5>${id}</h5>
+      </div>
     </div>
-
-    <coordinates location.two-way="location"></coordinates>
     <h4 class="ui dividing header"> Select Point </h4>
     <div class="grouped inline fields">
-      <div class="field" repeat.for="point of points">
+      <div class="field" repeat.for="point of pointsR">
         <div class="ui radio checkbox">
           <input type="radio" model.bind="point" checked.bind="selectedPoint">
           <label>${point.name}, ${point.description}</label>

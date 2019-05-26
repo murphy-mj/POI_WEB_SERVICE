@@ -9,13 +9,18 @@ export class DonateForm {
   paymentMethods: string[];
   @bindable
   candidates: Candidate[];
+  //@bindable
+  //location: Location = {};
 
   amount = '0';
   selectedMethod = '';
   selectedCandidate : Candidate = null;
+  lat = 0;
+  lng = 0;
 
-  location: Location = { lat: 53.2734, lng: -7.7783203 };
-  //location: Location = { lat: this.location.lat, lng: this.location.lng };
+  //location: Location = { lat: 53.2734, lng: -7.7783203 };
+
+  location: Location = { lat: this.lat, lng: this.lng };
   constructor (private ds: DonationService) {}
 
   makeDonation() {

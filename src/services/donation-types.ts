@@ -66,8 +66,8 @@ export interface rawLocation {
 
 export interface Comment {
   opinion: string;
-  user: User;
-  point: Point;
+  user: string;
+  point: string;
 
 }
 

@@ -1,5 +1,5 @@
 <template>
-  <h4 class="ui dividing header"> Points </h4>
+  <h4 class="ui dividing header"> PointsR </h4>
   <table class="ui celled table segment">
     <thead>
     <tr>
@@ -7,23 +7,26 @@
       <th>Category</th>
       <th>Description</th>
       <th>Location</th>
+      <th>id</th>
     </tr>
     </thead>
     <tbody>
+    <div>${pointsR.length}</div>
     <tr repeat.for="point of points">
       <td>
-        ${point.name}
+        ${rawPoint}
       </td>
       <td>
         ${point.category}
       </td>
       <td>
-        ${point.description}
+        ${rawPoint.description}
       </td>
       <td>
-        ${point.location.lng}, ${point.location.lat}
+        ${rawPoint.location.lng}, ${rawPoint.location.lat}
       </td>
-      <td><a route-href="route: addcomment; params.bind: {id: point.name }" ><i><b>Add Comment</b></i></a></td>
+      <td>${rawPoint._id}</td>
+      <td><a route-href="route: addcomment; params.bind: {id: rawPoint.name }" ><i><b>Add Comment</b></i></a></td>
     </tr>
     </tbody>
   </table>

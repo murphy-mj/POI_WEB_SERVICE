@@ -5,8 +5,11 @@ import {DonationService} from "../services/donation-service";
 
 @inject(DonationService)
 export class Observation {
+
   comments: Comment[];
+
   points: Point[];
+
   totalComments =0;
 
   constructor(private ds: DonationService) {

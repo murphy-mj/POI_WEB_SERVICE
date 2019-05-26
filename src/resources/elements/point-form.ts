@@ -9,8 +9,8 @@ export class PointForm {
   category: string;
   description: string;
   pimage: string;
-  //lat: number;
-  //lng: number;
+  lat =0;
+  lng =0;
   //location: Location;
 
   @bindable
@@ -25,7 +25,7 @@ export class PointForm {
   // location: Location = { lat: 53.2734, lng: -7.7783203 };
 
   //const newLocation = new Location(lat: this.lat , lng: this.lng);
-  location: Location = { lat: 53.2734, lng: -7.7783203 };
+  location: Location = { lat: this.lat, lng: this.lng };
 
   addPoint() {
     // const newLocation = this.ds.createLocation(this.lat ,this.lng);

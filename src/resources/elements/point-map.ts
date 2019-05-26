@@ -3,27 +3,23 @@ import { EventAggregator } from 'aurelia-event-aggregator';
 import { LeafletMap } from '../../services/leaflet-map';
 import { TotalUpdate} from '../../services/messages';
 import { Donation,Point, Comment } from '../../services/donation-types';
+import { DonationService } from '../../services/donation-service';
+import { bindable } from 'aurelia-framework';
 
-@inject(EventAggregator)
+//@inject(EventAggregator)
+@inject(DonationService)
 export class PointMap {
   mapId = 'point-map';
   mapHeight = 300;
   map: LeafletMap;
 
-  constructor(private ea: EventAggregator) {
-    ea.subscribe(TotalUpdate, msg => {
-      this.renderComment(msg.comment);
-    });
-
+  constructor(private ds: DonationService) {
   }
 
-  renderComment(comment: Comment){
-
-    if (this.map) {
-      const pointStr = 'Str';
-    //  const pointStr = `${comment.point.name} ${comment.point.description} ${comment.opinion}`;
-   //   this.map.addMarker(comment.point.location,pointStr);
-   //   this.map.moveTo(12, comment.point.location);
+  renderPoint() {
+    for (let point of this.ds.points) {
+      const pointStr = `${point.name} ${point.category}`;
+       this.map.addMarker(point.location, pointStr, 'Points');
     }
   }
 
@@ -35,6 +31,10 @@ export class PointMap {
     };
     this.map = new LeafletMap(this.mapId, mapConfig, 'Terrain');
     this.map.showZoomControl();
+    this.map.addLayerGroup('Points');
+    this.map.showLayerControl();
+    this.renderPoint();
+
   }
 
 }

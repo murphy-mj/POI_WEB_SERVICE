@@ -6,7 +6,6 @@
       <th>Name</th>
       <th>Category</th>
       <th>Description</th>
-      <th>Image</th>
       <th>Location</th>
     </tr>
     </thead>
@@ -22,12 +21,10 @@
         ${point.description}
       </td>
       <td>
-        ${point.pimage}
-      </td>
-      <td>
         ${point.location.lng}, ${point.location.lat}
       </td>
-
+      <td><a route-href="route: addcomment; params.bind: {id: point.name }" ><i><b>Add Comment</b></i></a></td>
+      <td><a route-href="route: viewcomment; params.bind: {id: point.name }" ><i><b>View Comments</b></i></a></td>
     </tr>
     </tbody>
   </table>
