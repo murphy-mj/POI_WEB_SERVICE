@@ -40,7 +40,7 @@ export class App {
         name: 'stats',
         moduleId: PLATFORM.moduleName('views/stats'),
         nav: true,
-        title: 'Satats'
+        title: 'Stats'
       },
       {
         route: 'observation',
